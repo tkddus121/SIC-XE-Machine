@@ -1,0 +1,16 @@
++-------------------------------+
+   20141549 README
+
+   Compile environment : Linux
+   Compile command     : make
+   Exe file name       : 20141549.out
+   
+   When you input 'help' or 'h' it will
+   print command list.
+
+   To realize SIC/XE machine. Before,
+   We implement object code memory and
+   OPCODE table and command in this program
+
++-------------------------------+
+

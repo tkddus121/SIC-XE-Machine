@@ -1,0 +1,35 @@
++-------------------------------+
+   20141549 README
+
+   Compile environment : Linux
+   Compile command     : make
+   Exe file name       : 20141549.out
+   
+   When you input 'help' or 'h' it will
+   print command list.
+
+   To realize SIC/XE machine. Before,
+   We implement object code memory and
+   OPCODE table and command in this program
+
+   __ADDED__ Project2
+
+   We programed assembler for .asm file. 
+   And it generate list file and object file.
+   It also print error when there are errors in  line.
+   You can assemble like "assemble filename". 
+   Only for asm file. Thank you.
+
+   __ADDED__ Project3
+
+   Proj3 developed link and loader. 
+   We can analyze object files. And we can link
+   numerous object files.It is provides with
+   "progaddr" command with deciding progaddr.
+   Next "loader" command can link and load files.
+   Also, we developed breakpoint and run function.
+   "breakpoint" command can decide breakpoint infinitively.
+   When you input "run" command, program runs and print register details.
+   Thank you.
+
++-------------------------------+
